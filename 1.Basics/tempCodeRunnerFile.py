@@ -1,0 +1,1 @@
+print("I am %s and my age is %d and gender is %s"%(name,age,gender))

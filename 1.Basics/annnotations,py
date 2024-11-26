@@ -1,0 +1,4 @@
+name:str = "Divi"
+print(name)
+name = "abc"
+print(name)
